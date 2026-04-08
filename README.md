@@ -12,3 +12,5 @@ Kindle 文本编码清洗工具  一键解决简体中文 txt 文件在 Calibre 
 - 使用 `chardet` 智能嗅探原文件编码
 - 内置非中文编码黑名单（如 Cyrillic, Latin-1），自动修正为 `GB18030`
 - 适合处理从简体中文 txt 文件在 Calibre 转换为 AZW3 时打开乱码的问题
+
+第一次上传Github不太熟练，需要的朋友可以直接下载仓库里的 .exe 文件双击运行
